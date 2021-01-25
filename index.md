@@ -23,7 +23,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: start
   headline: "<strong>Deine Stimme bei der Bundestagswahl 2021</strong><br>Eine Information
     für Deutsche in der Schweiz"
   content: ''

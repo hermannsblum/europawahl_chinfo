@@ -19,6 +19,10 @@ page_sections:
   media:
     image: "/uploads/2021/01/25/undraw_voting_nvu7.svg"
     alt_text: uBuild Blocks Mock-Up
+- block: selector
+  selection1: Ich bin in Deutschland gemeldet.
+  selection2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
+  selection3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

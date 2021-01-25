@@ -26,8 +26,7 @@ page_sections:
   slug: swap
   headline: "<strong>Deine Stimme bei der Bundestagswahl 2021</strong><br>Eine Information
     für Deutsche in der Schweiz"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: ''
   media:
     image: "/uploads/2021/01/25/undraw_voting_nvu7.svg"
     alt_text: uBuild Blocks Mock-Up

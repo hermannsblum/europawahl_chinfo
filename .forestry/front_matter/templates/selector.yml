@@ -1,4 +1,31 @@
 ---
 label: selector
 hide_body: true
-fields: []
+fields:
+- name: selector1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: first selector
+- name: selector2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: second selector
+- name: selector3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: third selector

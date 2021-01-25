@@ -66,5 +66,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 4-column-footer
+  block: footer-2
+  col_2: Ein Angebot des SPD Freundeskreis Zürich
+  image: ''
+  col_3: ''
+  col_4: ''
 
 ---

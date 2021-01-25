@@ -17,7 +17,7 @@ page_sections:
     für Deutsche in der Schweiz"
   content: ''
   media:
-    image: "/uploads/2021/01/25/undraw_voting_nvu7.svg"
+    image: "/uploads/2021/01/25/undraw_voting_nvu7-1.svg"
     alt_text: uBuild Blocks Mock-Up
 - block: selector
   selection1: Ich bin in Deutschland gemeldet.

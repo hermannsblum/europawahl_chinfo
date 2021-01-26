@@ -21,12 +21,9 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: selector
   block: selector
-  selection1: Ich bin in Deutschland gemeldet.
-  selection2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
-  selection3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
   selector1: Ich bin noch in Deutschland gemeldet.
-  selector2: ''
-  selector3: ''
+  selector2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
+  selector3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Bundestagswahl 2021
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -24,6 +24,9 @@ page_sections:
   selection1: Ich bin in Deutschland gemeldet.
   selection2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
   selection3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
+  selector1: Ich bin noch in Deutschland gemeldet.
+  selector2: ''
+  selector3: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

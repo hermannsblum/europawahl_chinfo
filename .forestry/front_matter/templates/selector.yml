@@ -1,6 +1,6 @@
 ---
 label: selector
-hide_body: true
+hide_body: false
 fields:
 - name: selector1
   type: textarea

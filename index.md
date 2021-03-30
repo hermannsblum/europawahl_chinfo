@@ -61,6 +61,18 @@ page_sections:
     Goetheinstituten etc.</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
     Umfang am politischen Leben der BRD teilnehmen</p></li></ul>"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    slug: documents
+    content: <img src="/uploads/2021/01/25/undraw_process_re_gws7-1.svg">
+    headline: ''
+  col_2:
+    headline: Die wichtigsten Dokumente im Überblick
+    content: '- Die Website des Bundeswahlleiters: <a href="https://www.bundeswahlleiter.de/bundestagswahlen/2021/informationen-waehler/deutsche-im-ausland.html"
+      title="">bundeswahlleiter.de</a><br>- Das Antragsformular zur Eintragung ins
+      Wählerverzeichnis: '
+    slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

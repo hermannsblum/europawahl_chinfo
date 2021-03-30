@@ -26,6 +26,9 @@ page_sections:
   selector1: Ich bin noch in Deutschland gemeldet.
   selector2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
   selector3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
+  link1: "#option1"
+  link2: ''
+  link3: ''
 - template: detail-content
   block: text-1
   headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'

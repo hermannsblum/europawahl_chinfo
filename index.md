@@ -45,6 +45,20 @@ page_sections:
     der Wahl werden Ihnen die Briefwahlunterlagen zugesandt.</p></li><li><p>Schicken
     Sie den ausgefüllten Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September
     angekommen ist.</p></li></ol><p><br></p>
+- template: detail-content
+  block: text-1
+  headline: 'Option 3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.'
+  content: "<p>Wenn Sie sich in den letzten 25 Jahren nicht mindestens 3 Monate ununterbrochen
+    oder nach dem vollendeten 14. Lebensjahr nicht länger als 3 Monate in Deutschland
+    aufgehalten haben müssen Sie auf einem besonderen Blatt (am besten mit Belegen)
+    begründen, dass Sie</p><blockquote><p><em>persönlich und unmittelbar (aus eigener
+    Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik
+    Deutschland erworben haben und gegenwärtig davon betroffen sind <br></em>(Merkblatt
+    des Bundeswahlleiters)</p></blockquote><p>Danach folgen Sie bitte Option 2.</p><p>Beispiele
+    für Gründe zur Wahlteilnahme:</p><ul><li><p>Ortskräfte an deutschen Auslandsvertretungen,
+    Goetheinstituten etc.</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
+    die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
+    Umfang am politischen Leben der BRD teilnehmen</p></li></ul>"
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

@@ -8,6 +8,9 @@ fields:
   name: block
   default: text-1
 - type: text
+  label: slug
+  name: slug
+- type: text
   name: headline
   label: Headline
 - type: textarea

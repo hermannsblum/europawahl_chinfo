@@ -65,7 +65,7 @@ page_sections:
   block: two-column-1
   col_1:
     slug: documents
-    content: <img src="/uploads/2021/01/25/undraw_process_re_gws7-1.svg">
+    content: ''
     headline: ''
   col_2:
     headline: Die wichtigsten Dokumente im Überblick

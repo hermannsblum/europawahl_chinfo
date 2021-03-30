@@ -26,12 +26,11 @@ page_sections:
   selector3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+  headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'
+  content: "<p>Ihre Wahlunterlagen werden an Ihre Meldeadresse in Deutschland geschickt.
+    Mit diesen können Sie die Briefwahlunterlagen auch an eine Adresse in der Schweiz
+    beantragen.</p><p><strong>Viele Gemeinden ermöglichen den Briefwahlantrag auch
+    online.</strong></p>"
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

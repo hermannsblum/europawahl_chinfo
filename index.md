@@ -31,6 +31,20 @@ page_sections:
     Mit diesen können Sie die Briefwahlunterlagen auch an eine Adresse in der Schweiz
     beantragen.</p><p><strong>Viele Gemeinden ermöglichen den Briefwahlantrag auch
     online.</strong></p>"
+- template: detail-content
+  block: text-1
+  headline: 'Option 2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.'
+  content: <p>Sie wählen in der Regel im Wahlkreis Ihres letzten Wohnorts in Deutschland
+    per Briefwahl. Dafür müssen Sie bei jeder Wahl <strong>rechtzeitig</strong><em>
+    </em>das Antragsformular für die Eintragung in das Wählerverzeichnis an die dortigen
+    Verwaltungsbehörden schicken (z.B. «Stadt Pulheim, Rathaus»):</p><ol><li><p>Laden
+    Sie sich das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
+    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schicken
+    Sie das ausgefüllte Formular <strong>spätestens im August</strong> an ihren letzten
+    Wohnort in Deutschland. Am besten jetzt!</p></li><li><p>Frühestens 6 Wochen vor
+    der Wahl werden Ihnen die Briefwahlunterlagen zugesandt.</p></li><li><p>Schicken
+    Sie den ausgefüllten Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September
+    angekommen ist.</p></li></ol><p><br></p>
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

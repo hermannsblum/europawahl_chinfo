@@ -79,7 +79,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   col_2: Ein Angebot des SPD Freundeskreis Zürich
-  image: "/uploads/2021/03/30/spd-zuerich.png"
+  image: "/uploads/2021/03/30/spdzuerich_150x150.png"
   col_3: ''
   col_4: ''
 

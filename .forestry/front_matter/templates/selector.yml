@@ -11,6 +11,9 @@ fields:
     schema:
       format: markdown
   label: first selector
+- type: text
+  name: link1
+  label: link1
 - name: selector2
   type: textarea
   default: ''
@@ -20,6 +23,9 @@ fields:
     schema:
       format: markdown
   label: second selector
+- type: text
+  name: link2
+  label: link2
 - name: selector3
   type: textarea
   default: ''
@@ -29,3 +35,6 @@ fields:
     schema:
       format: markdown
   label: third selector
+- type: text
+  name: link3
+  label: link3

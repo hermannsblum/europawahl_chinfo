@@ -1,15 +1,21 @@
 <section id="selection" class="block block-selector block-three-column-1">
   <div class="container">
     <div class="columns">
-      <div class="column selector">
-        <p>{{ section.selector1 }}</p>
-      </div>
-      <div class="column selector">
-        <p>{{ section.selector2 }}</p>
-      </div>
-      <div class="column selector">
-        <p>{{ section.selector3 }}</p>
-      </div>
+      <a href="{{ nav_item.link1 | relative_url }}">
+        <div class="column selector">
+          <p>{{ section.selector1 }}</p>
+        </div>
+      </a>
+      <a href="{{ nav_item.link2 | relative_url }}">
+        <div class="column selector">
+          <p>{{ section.selector2 }}</p>
+        </div>
+      </a>
+      <a href="{{ nav_item.link3 | relative_url }}">
+        <div class="column selector">
+          <p>{{ section.selector3 }}</p>
+        </div>
+      </a>
     </div>
   </div>
 </section>

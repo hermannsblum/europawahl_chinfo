@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "#selection"
+    link_text: Ihr Weg zur Wahl
   - link: "#ueber"
     link_text: Über Uns
   logo: ''

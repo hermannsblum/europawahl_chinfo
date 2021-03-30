@@ -26,9 +26,9 @@ page_sections:
   selector1: Ich bin noch in Deutschland gemeldet.
   selector2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
   selector3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
-  link1: "#option1"
-  link2: ''
-  link3: ''
+  link1: "#noch-gemeldet"
+  link2: "#weniger-25-jahre"
+  link3: "#mehr-25-jahre"
 - template: detail-content
   block: text-1
   headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'
@@ -36,7 +36,7 @@ page_sections:
     Mit diesen können Sie die Briefwahlunterlagen auch an eine Adresse in der Schweiz
     beantragen.</p><p><strong>Viele Gemeinden ermöglichen den Briefwahlantrag auch
     online.</strong></p>"
-  slug: option1
+  slug: noch-gemeldet
 - template: detail-content
   block: text-1
   headline: 'Option 2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.'
@@ -51,7 +51,7 @@ page_sections:
     der Wahl werden Ihnen die Briefwahlunterlagen zugesandt.</p></li><li><p>Schicken
     Sie den ausgefüllten Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September
     angekommen ist.</p></li></ol><p><br></p>
-  slug: ''
+  slug: weniger-25-jahre
 - template: detail-content
   block: text-1
   headline: 'Option 3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.'
@@ -66,7 +66,7 @@ page_sections:
     Goetheinstituten etc.</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
     Umfang am politischen Leben der BRD teilnehmen</p></li></ul>"
-  slug: ''
+  slug: mehr-25-jahre
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

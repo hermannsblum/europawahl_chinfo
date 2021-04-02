@@ -27,7 +27,7 @@ page_sections:
   block: selector
   headline: 'Bitte wählen sie Ihre Situation aus:'
   selector1: Ich bin noch in Deutschland gemeldet.
-  selector2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
+  selector2: Ich habe vor weniger als 25 Jahren mind. 3 Monate in Deutschland gelebt.
   selector3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.
   link1: "#noch-gemeldet"
   link2: "#weniger-25-jahre"

@@ -86,8 +86,10 @@ page_sections:
   content: Diese Seite ist ein Angebot des SPD Freundeskreis Zürich. Alle Informationen
     wurden von Freiwilligen zusammengestellt und wir übernehmen keine Gewähr für Korrektheit
     oder Vollständigkeit. Diese Seite ist als Hilfestellung gedacht, um die Teilnahme
-    an der Wahl möglichst einfach zu machen.<br>Das Angebot ist überparteilich und
-    wir freuen uns über jede Stimme für eine demokratische Partei.
+    an der Wahl möglichst einfach zu machen. Verbindliche und präzise Informationen
+    findet Ihr unter <a href="bundeswahlleiter.de" title="">www.bundeswahlleiter.de</a>.<br>Das
+    Angebot ist überparteilich und wir freuen uns über jede Stimme für eine demokratische
+    Partei.
 - template: 4-column-footer
   block: footer-2
   col_2: Ein Angebot des SPD Freundeskreis Zürich

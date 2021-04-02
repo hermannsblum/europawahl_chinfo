@@ -69,7 +69,7 @@ page_sections:
   slug: mehr-25-jahre
 - template: detail-illustrated-content
   block: text-img
-  headline: Fristen und Link im Überblick
+  headline: Fristen und Links im Überblick
   content: "<p><strong>Spätestens bis August</strong> Verschicken Sie Ihren Antrag
     zur Eintragung ins Wählerverzeichnis. Das können Sie aber auch jetzt schon machen!</p><p><strong>5.
     September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss bei der

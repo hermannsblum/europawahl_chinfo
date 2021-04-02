@@ -86,7 +86,7 @@ page_sections:
   content: Diese Seite ist ein Angebot des SPD Freundeskreis Zürich. Alle Informationen
     wurden von Freiwilligen zusammengestellt und wir übernehmen keine Gewähr für Korrektheit
     oder Vollständigkeit. Diese Seite ist als Hilfestellung gedacht, um die Teilnahme
-    an der Wahl möglichst einfach zu machen. Verbindliche und präzise Informationen
+    an der Bundestagswahl möglichst einfach zu machen. Verbindliche und präzise Informationen
     findet Ihr unter <a href="https://www.bundeswahlleiter.de" title="">www.bundeswahlleiter.de</a>.<br>Das
     Angebot ist überparteilich und wir freuen uns über jede Stimme für eine demokratische
     Partei.

@@ -74,7 +74,7 @@ page_sections:
     zur Eintragung ins Wählerverzeichnis. Das können Sie aber auch jetzt schon machen!</p><p><strong>5.
     September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss bei der
     Gemeinde eingegangen sein.</p><p><strong>26. September</strong> Bundestagswahl</p>"
-  slug: ''
+  slug: fristen
   image: "/uploads/2021/01/25/undraw_mailbox_re_dvds-1.svg"
 - template: 1-column-text
   block: one-column-1

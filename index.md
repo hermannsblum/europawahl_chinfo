@@ -8,6 +8,8 @@ page_sections:
   navigation:
   - link: "#selection"
     link_text: Ihr Weg zur Wahl
+  - link: "#fristen"
+    link_text: Fristen
   - link: "#ueber"
     link_text: Über Uns
   logo: ''

@@ -1,0 +1,25 @@
+---
+label: detail-content
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: text-img
+- type: text
+  label: slug
+  name: slug
+- type: text
+  name: headline
+  label: Headline
+- type: file
+  label: image
+  name: Image
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks

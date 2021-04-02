@@ -67,6 +67,11 @@ page_sections:
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
     Umfang am politischen Leben der BRD teilnehmen</p></li></ul>"
   slug: mehr-25-jahre
+- template: detail-illustrated-content
+  block: text-img
+  headline: Fristen und Link im Überblick
+  image: "/uploads/2021/01/25/undraw_voting_nvu7-1.svg"
+  content: ""
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

@@ -1,5 +1,5 @@
 ---
-label: detail-content
+label: detail-illustrated-content
 hide_body: false
 fields:
 - type: text
@@ -14,8 +14,8 @@ fields:
   name: headline
   label: Headline
 - type: file
-  label: image
-  name: Image
+  label: Image
+  name: image
 - type: textarea
   name: content
   label: Content

@@ -70,13 +70,12 @@ page_sections:
 - template: detail-illustrated-content
   block: text-img
   headline: Fristen und Link im Überblick
-  image: "/uploads/2021/01/25/undraw_voting_nvu7-1.svg"
   content: "<p><strong>Spätestens bis August</strong> Verschicken Sie Ihren Antrag
     zur Eintragung ins Wählerverzeichnis. Das können Sie aber auch jetzt schon machen!</p><p><strong>5.
     September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss bei der
     Gemeinde eingegangen sein.</p><p><strong>26. September</strong> Bundestagswahl</p>"
   slug: ''
-  Image: "/uploads/2021/01/25/undraw_mailbox_re_dvds-1.svg"
+  image: "/uploads/2021/01/25/undraw_mailbox_re_dvds-1.svg"
 - template: 1-column-text
   block: one-column-1
   headline: Dies ist keine offizielle Seite

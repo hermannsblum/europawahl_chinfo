@@ -49,9 +49,9 @@ page_sections:
     Verwaltungsbehörden schicken (z.B. «Stadt Pulheim, Rathaus»):</p><ol><li><p>Laden
     Sie sich das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
     title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schicken
-    Sie das ausgefüllte Formular <strong>spätestens im August</strong> an ihren letzten
-    Wohnort in Deutschland. Am besten jetzt!</p></li><li><p>Frühestens 6 Wochen vor
-    der Wahl werden Ihnen die Briefwahlunterlagen zugesandt.</p></li><li><p>Schicken
+    Sie das ausgefüllte Formular spätestens im August an ihren letzten Wohnort in
+    Deutschland. <strong>Am besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen
+    vor der Wahl werden Ihnen die Briefwahlunterlagen zugesandt.</p></li><li><p>Schicken
     Sie den ausgefüllten Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September
     angekommen ist.</p></li></ol><p><br></p>
   slug: weniger-25-jahre

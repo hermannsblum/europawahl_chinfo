@@ -25,6 +25,7 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: selector
   block: selector
+  headline: 'Bitte wählen sie Ihre Situation aus:'
   selector1: Ich bin noch in Deutschland gemeldet.
   selector2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.
   selector3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.

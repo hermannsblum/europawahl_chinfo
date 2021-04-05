@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   navigation:
   - link: "#selection"
-    link_text: Ihr Weg zur Wahl
+    link_text: Euer Weg zur Wahl
   - link: "#fristen"
     link_text: Fristen
   - link: "#ueber"
@@ -17,8 +17,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: start
-  headline: "<strong>Deine Stimme bei der Bundestagswahl 2021</strong><br>Eine Information
-    für Deutsche in der Schweiz"
+  headline: "<strong>Eure Stimme bei der Bundestagswahl 2021</strong><br>Informationen
+    für Deutsche Staatsangehörige in der Schweiz"
   content: ''
   media:
     image: "/uploads/2021/01/25/undraw_voting_nvu7-1.svg"

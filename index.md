@@ -35,25 +35,24 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'
-  content: "<p>Ihre Wahlunterlagen werden an Ihre Meldeadresse in Deutschland geschickt.
-    Mit diesen können Sie die Briefwahlunterlagen auch an eine Adresse in der Schweiz
-    beantragen.</p><p><strong>Viele Städte und Gemeinden ermöglichen den Briefwahlantrag
-    auch online.</strong></p>"
+  content: "<p>Eure Wahlunterlagen werden an Eure Meldeadresse geschickt. Mit diesen
+    könnt Ihr die Briefwahlunterlagen auch an eine Adresse in der Schweiz beantragen.</p><p><strong>Viele
+    Städte und Gemeinden ermöglichen den Briefwahlantrag auch online.</strong></p>"
   slug: noch-gemeldet
 - template: detail-content
   block: text-1
   headline: 'Option 2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.'
-  content: <p>Sie wählen in der Regel im Wahlkreis Ihres letzten Wohnorts in Deutschland
-    per Briefwahl. Dafür müssen Sie bei jeder Wahl <strong>rechtzeitig</strong><em>
-    </em>das Antragsformular für die Eintragung in das Wählerverzeichnis an die dortigen
-    Verwaltungsbehörden schicken (z.B. «Stadt Pulheim, Rathaus»):</p><ol><li><p>Laden
-    Sie sich das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
-    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schicken
-    Sie das ausgefüllte Formular spätestens im August an ihren letzten Wohnort in
-    Deutschland. <strong>Am besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen
-    vor der Wahl werden Ihnen die Briefwahlunterlagen zugesandt.</p></li><li><p>Schicken
-    Sie den ausgefüllten Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September
-    angekommen ist.</p></li></ol><p><br></p>
+  content: <p>Ihr wählt in der Regel im Wahlkreis Eures letzten Wohnorts in Deutschland
+    per Briefwahl. Das ist nicht online möglich. Ihr müsst für jede Wahl <strong>rechtzeitig</strong><em>
+    </em>das Antragsformular zur Eintragung in das Wählerverzeichnis an die dortige
+    Verwaltung schicken (z.B. «Rathaus, Stadt Pulheim» oder «Wahlamt, Stadt Stuttgart»):</p><ol><li><p>Ladet
+    das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
+    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
+    das ausgefüllte Formular spätestens Ende August an Euren letzten Wohnort in Deutschland.
+    <strong>Am besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl
+    werden Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
+    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist.
+    Bitte ausreichend frankieren!</p></li></ol><p><br></p>
   slug: weniger-25-jahre
 - template: detail-content
   block: text-1

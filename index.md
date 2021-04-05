@@ -37,8 +37,8 @@ page_sections:
   headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'
   content: "<p>Ihre Wahlunterlagen werden an Ihre Meldeadresse in Deutschland geschickt.
     Mit diesen können Sie die Briefwahlunterlagen auch an eine Adresse in der Schweiz
-    beantragen.</p><p><strong>Viele Gemeinden ermöglichen den Briefwahlantrag auch
-    online.</strong></p>"
+    beantragen.</p><p><strong>Viele Städte und Gemeinden ermöglichen den Briefwahlantrag
+    auch online.</strong></p>"
   slug: noch-gemeldet
 - template: detail-content
   block: text-1

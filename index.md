@@ -37,11 +37,16 @@ page_sections:
   headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'
   content: "<p>Eure Wahlunterlagen werden an Eure Meldeadresse geschickt. Mit diesen
     könnt Ihr die Briefwahlunterlagen auch an eine Adresse in der Schweiz beantragen.</p><p><strong>Viele
-    Städte und Gemeinden ermöglichen den Briefwahlantrag auch online.</strong></p>"
+    Städte und Gemeinden ermöglichen den Briefwahlantrag auch online.</strong></p><ol><li><p>Beantragt
+    die Briefwahl.</p></li><li><p>Frühestens 6 Wochen vor der Wahl werden Euch die
+    Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten Wahlschein
+    rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist. Bitte ausreichend
+    frankieren!</p></li></ol>"
   slug: noch-gemeldet
 - template: detail-content
   block: text-1
-  headline: 'Option 2: Ich habe vor weniger als 25 Jahren in Deutschland gelebt.'
+  headline: 'Option 2: Ich habe vor weniger als 25 Jahren mind. 3 Monate in Deutschland
+    gelebt.'
   content: <p>Ihr wählt in der Regel im Wahlkreis Eures letzten Wohnorts in Deutschland
     per Briefwahl. Das ist nicht online möglich. Ihr müsst für jede Wahl <strong>rechtzeitig</strong><em>
     </em>das Antragsformular zur Eintragung in das Wählerverzeichnis an die dortige

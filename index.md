@@ -57,17 +57,25 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Option 3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.'
-  content: "<p>Wenn Sie sich in den letzten 25 Jahren nicht mindestens 3 Monate ununterbrochen
-    oder nach dem vollendeten 14. Lebensjahr nicht länger als 3 Monate in Deutschland
-    aufgehalten haben müssen Sie auf einem besonderen Blatt (am besten mit Belegen)
-    begründen, dass Sie</p><blockquote><p><em>persönlich und unmittelbar (aus eigener
+  content: <p>Wenn Ihr nach Eurem 14. Geburtstag mindestens 3 Monate ununterbrochen
+    in der Bundesrepublik Deutschland gelebt habt und dieser Aufenthalt nicht länger
+    als 25 Jahre zurückliegt seid ihr wahlberechtigt.</p><p>Unabhängig davon seid
+    Ihr auch wahlberechtigt, wenn Ihr auf einem besonderen Blatt (möglichst mit Belegen)
+    begründen, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar (aus eigener
     Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik
-    Deutschland erworben haben und gegenwärtig davon betroffen sind <br></em>(Merkblatt
-    des Bundeswahlleiters)</p></blockquote><p>Danach folgen Sie bitte Option 2.</p><p>Beispiele
-    für Gründe zur Wahlteilnahme:</p><ul><li><p>Ortskräfte an deutschen Auslandsvertretungen,
-    Goetheinstituten etc.</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
+    Deutschland erworben [habt] und gegenwärtig davon betroffen [seid]» <br></em>(Merkblatt<em>
+    </em>des Bundeswahlleiters)</p></blockquote><ol><li><p>Ladet das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
+    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
+    das ausgefüllte Formular zusammen mit der Begründung auf dem Beiblatt und allen
+    Belegen bis spätestens Ende August an Euren letzten Wohnort in Deutschland. <strong>Am
+    besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl werden
+    Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
+    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist.
+    Bitte ausreichend frankieren!</p></li></ol><p>Beispiele für Gründe zur Wahlteilnahme:</p><ul><li><p>Ortskräfte
+    an deutschen Auslandsvertretungen oder Goethe-Instituten</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
-    Umfang am politischen Leben der BRD teilnehmen</p></li></ul>"
+    Umfang am politischen Leben der BRD teilnehmen</p></li><li><p>Auslandsdeutsche,
+    die regelmässig an Bundestagswahlen teilgenommen haben</p></li></ul>
   slug: mehr-25-jahre
 - template: detail-illustrated-content
   block: text-img

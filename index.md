@@ -103,7 +103,9 @@ page_sections:
     Partei.
 - template: 4-column-footer
   block: footer-2
-  col_2: Ein Angebot des SPD Freundeskreis Zürich
+  col_2: Ein Angebot des <br><a href="https://www.spd-zuerich.ch" title="">SPD Freundeskreis
+    Zürich</a><br><a href="https://www.spd-zuerich.ch/impressum/" title="">Impressum</a><br><br>Grafiken
+    von <a href="https://undraw.co" title="">undraw.co</a>
   image: "/uploads/2021/03/30/spdzuerich_150x150.png"
   col_3: Diese Seite nutzt kein Tracking. Es wird nicht übertragen, auf welche Optionen
     sie klicken und es werden weder Cookies gespeichert noch ausgewertet.

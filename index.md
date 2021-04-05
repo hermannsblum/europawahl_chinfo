@@ -80,10 +80,14 @@ page_sections:
 - template: detail-illustrated-content
   block: text-img
   headline: Fristen und Links im Überblick
-  content: "<p><strong>Spätestens bis August</strong> Verschicken Sie Ihren Antrag
-    zur Eintragung ins Wählerverzeichnis. Das können Sie aber auch jetzt schon machen!</p><p><strong>5.
-    September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss bei der
-    Gemeinde eingegangen sein.</p><p><strong>26. September</strong> Bundestagswahl</p>"
+  content: <p><strong>Spätestens bis Ende August</strong> Verschickt Ihr den Antrag
+    zur Eintragung ins Wählerverzeichnis. Das könnt Ihr aber auch jetzt schon machen!</p><p><strong>5.
+    September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
+    der Gemeinde eingegangen sein</strong>.</p><p><strong>26. September</strong> Bundestagswahl.
+    Die Briefwahlunterlagen müssen bei der Stadt bzw. Gemeinde angekommen sein. Bitte
+    hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiter.de"
+    title="">Die Seite des Bundeswahlleiters</a></p></li><li><p><a href="https://bundeswahlleiter.de/bundestagswahlen/2021/informationen-waehler/deutsche-im-ausland.html"
+    title="">Information des Bundeswahlleiters für Deutsche im Ausland</a></p></li></ul>
   slug: fristen
   image: "/uploads/2021/01/25/undraw_mailbox_re_dvds-1.svg"
 - template: 1-column-text

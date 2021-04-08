@@ -66,7 +66,7 @@ page_sections:
     in der Bundesrepublik Deutschland gelebt habt und dieser Aufenthalt nicht länger
     als 25 Jahre zurückliegt seid ihr wahlberechtigt.</p><p>Unabhängig davon seid
     Ihr auch wahlberechtigt, wenn Ihr auf einem besonderen Blatt (möglichst mit Belegen)
-    begründen, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar (aus eigener
+    begründet, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar (aus eigener
     Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik
     Deutschland erworben [habt] und gegenwärtig davon betroffen [seid]» <br></em>(Merkblatt<em>
     </em>des Bundeswahlleiters)</p></blockquote><ol><li><p>Ladet das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
@@ -88,9 +88,9 @@ page_sections:
   content: <p><strong>Spätestens bis Ende August</strong> Verschickt Ihr den Antrag
     zur Eintragung ins Wählerverzeichnis. Das könnt Ihr aber auch jetzt schon machen!</p><p><strong>5.
     September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
-    der Gemeinde eingegangen sein</strong>.</p><p><strong>26. September</strong> Bundestagswahl.
-    Die Briefwahlunterlagen müssen bei der Stadt bzw. Gemeinde angekommen sein. Bitte
-    hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiter.de"
+    der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>26. September</strong>
+    Bundestagswahl. Die Briefwahlunterlagen müssen bei der Stadt oder Gemeinde angekommen
+    sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiter.de"
     title="">Die Seite des Bundeswahlleiters</a></p></li><li><p><a href="https://bundeswahlleiter.de/bundestagswahlen/2021/informationen-waehler/deutsche-im-ausland.html"
     title="">Information des Bundeswahlleiters für Deutsche im Ausland</a></p></li></ul>
   slug: fristen

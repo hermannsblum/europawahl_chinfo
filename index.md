@@ -114,7 +114,7 @@ page_sections:
     von <a href="https://undraw.co" title="">undraw.co</a>
   image: "/uploads/2021/03/30/spdzuerich_150x150.png"
   col_3: Diese Seite nutzt kein Tracking. Es wird nicht übertragen, auf welche Optionen
-    ihr klickt und es werden weder Cookies gespeichert noch ausgewertet.
+    Ihr klickt und es werden weder Cookies gespeichert noch ausgewertet.
   col_4: Fragen? Anmerkungen? Korrekturen? Schreibt uns doch an <br>kontakt (at) spd-zuerich.ch
 
 ---

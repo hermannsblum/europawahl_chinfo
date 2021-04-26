@@ -47,10 +47,13 @@ page_sections:
   block: text-1
   headline: 'Option 2: Ich habe vor weniger als 25 Jahren mind. 3 Monate in Deutschland
     gelebt.'
-  content: <p>Ihr wählt in der Regel im Wahlkreis Eures letzten Wohnorts in Deutschland
-    per Briefwahl. Das ist nicht online möglich. Ihr müsst für jede Wahl <strong>rechtzeitig</strong><em>
-    </em>das Antragsformular zur Eintragung in das Wählerverzeichnis an die dortige
-    Verwaltung schicken (z.B. «Rathaus, Stadt Pulheim» oder «Wahlamt, Stadt Stuttgart»):</p><ol><li><p>Ladet
+  content: <p>Wenn Ihr nach Eurem 14. Geburtstag mindestens 3 Monate ununterbrochen
+    in der Bundesrepublik Deutschland gelebt habt und dieser Aufenthalt nicht länger
+    als 25 Jahre zurückliegt, seid Ihr wahlberechtigt.</p><p>Ihr wählt in der Regel
+    im Wahlkreis Eures letzten Wohnorts in Deutschland per Briefwahl. Das ist nicht
+    online möglich. Ihr müsst für jede Wahl <strong>rechtzeitig</strong><em> </em>das
+    Antragsformular zur Eintragung in das Wählerverzeichnis an die dortige Verwaltung
+    schicken (z.B. «Rathaus, Stadt Pulheim» oder «Wahlamt, Stadt Stuttgart»):</p><ol><li><p>Ladet
     das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
     title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
     das ausgefüllte Formular spätestens Ende August an Euren letzten Wohnort in Deutschland.
@@ -62,14 +65,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Option 3: Ich habe nie oder vor mehr als 25 Jahren in Deutschland gelebt.'
-  content: <p>Wenn Ihr nach Eurem 14. Geburtstag mindestens 3 Monate ununterbrochen
-    in der Bundesrepublik Deutschland gelebt habt und dieser Aufenthalt nicht länger
-    als 25 Jahre zurückliegt seid ihr wahlberechtigt.</p><p>Unabhängig davon seid
-    Ihr auch wahlberechtigt, wenn Ihr auf einem besonderen Blatt (möglichst mit Belegen)
-    begründet, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar (aus eigener
-    Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik
-    Deutschland erworben [habt] und gegenwärtig davon betroffen [seid]» <br></em>(Merkblatt<em>
-    </em>des Bundeswahlleiters)</p></blockquote><ol><li><p>Ladet das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
+  content: <p>Wenn Ihr nach Eurem 14. Geburtstag nicht mindestens 3 Monate ununterbrochen
+    in der Bundesrepublik Deutschland gelebt habt oder Euer Aufenthalt länger als
+    25 Jahre zurückliegt, seid Ihr nicht automatisch wahlberechtigt. Ihr könnt aber
+    dennoch an der Wahl teilnehmen, wenn Ihr auf einem besonderen Blatt (möglichst
+    mit Belegen) begründet, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar
+    (aus eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der
+    Bundesrepublik Deutschland erworben [habt] und gegenwärtig davon betroffen [seid]»
+    <br></em>(Merkblatt<em> </em>des Bundeswahlleiters)</p></blockquote><ol><li><p>Ladet
+    das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
     title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
     das ausgefüllte Formular zusammen mit der Begründung auf dem Beiblatt und allen
     Belegen bis spätestens Ende August an Euren letzten Wohnort in Deutschland. <strong>Am
@@ -79,16 +83,16 @@ page_sections:
     Bitte ausreichend frankieren!</p></li></ol><p>Beispiele für Gründe zur Wahlteilnahme:</p><ul><li><p>Ortskräfte
     an deutschen Auslandsvertretungen oder Goethe-Instituten</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
-    Umfang am politischen Leben der BRD teilnehmen</p></li><li><p>Auslandsdeutsche,
+    Umfang am politischen Leben Deutschlands teilnehmen</p></li><li><p>Auslandsdeutsche,
     die regelmässig an Bundestagswahlen teilgenommen haben</p></li></ul>
   slug: mehr-25-jahre
 - template: detail-illustrated-content
   block: text-img
   headline: Fristen und Links im Überblick
-  content: <p><strong>Spätestens bis Ende August</strong> Verschickt Ihr den Antrag
+  content: <p><strong>Spätestens bis Ende August</strong> verschickt Ihr den Antrag
     zur Eintragung ins Wählerverzeichnis. Das könnt Ihr aber auch jetzt schon machen!</p><p><strong>5.
-    September</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
-    der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>26. September</strong>
+    September:</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
+    der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>26. September:</strong>
     Bundestagswahl. Die Briefwahlunterlagen müssen bei der Stadt oder Gemeinde angekommen
     sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiter.de"
     title="">Die Seite des Bundeswahlleiters</a></p></li><li><p><a href="https://bundeswahlleiter.de/bundestagswahlen/2021/informationen-waehler/deutsche-im-ausland.html"

@@ -1,19 +1,15 @@
+---
 title: Bundestagswahl 2021
-author: SPD Freundeskreis Zürich
+author: SPD Zürich
 email: kontat@spd-zuerich.ch
-description: >-
-  Eine Informationsseite zur Bundestagswahl 2021 des SPD Freundeskreis Zürich.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "bundestagswahl.ch" # your site's origin, e.g. https://forestry.io
-
-# Build settings
+description: Eine Informationsseite zur Bundestagswahl 2021 der SPD Zürich.
+baseurl: "/"
+url: bundestagswahl.ch
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
-
+- jekyll-feed
+- jekyll-menus

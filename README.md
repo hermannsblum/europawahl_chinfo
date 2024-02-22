@@ -1,4 +1,4 @@
-# Informationsseite zur Bundestagswahl
+# Informationsseite zur Europawahl
 
 Ein Projekt des SPD Freundeskreis Zürich, um bei der Beantragung der Briefwahl zu helfen.
 

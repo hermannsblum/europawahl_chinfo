@@ -1,10 +1,10 @@
 ---
-title: Bundestagswahl 2021
+title: Europawahl 2024
 author: SPD Zürich
 email: kontat@spd-zuerich.ch
-description: "Eure Stimme bei der Bundestagswahl 2021: Informationen für Deutsche Staatsangehörige in der Schweiz"
+description: "Eure Stimme bei der Europawahl 2024: Informationen für Deutsche Staatsangehörige in der Schweiz"
 baseurl: "/"
-url: bundestagswahl.ch
+url: europawahl.ch
 defaults:
 - scope:
     path: ''

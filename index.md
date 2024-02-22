@@ -16,7 +16,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: start
-  headline: "<strong>Eure Stimme bei der Bundestagswahl 2021</strong><br>Informationen
+  headline: "<strong>Eure Stimme bei der Europawahl 2024</strong><br>Informationen
     für Deutsche Staatsangehörige in der Schweiz"
   content: ''
   media:
@@ -106,7 +106,7 @@ page_sections:
     wurden von Freiwilligen zusammengestellt und wir übernehmen keine Gewähr für Korrektheit
     oder Vollständigkeit. Diese Seite ist als Hilfestellung gedacht, um die Teilnahme
     an der Bundestagswahl möglichst einfach zu machen. Verbindliche und präzise Informationen
-    findet Ihr unter <a href="https://www.bundeswahlleiter.de" title="">www.bundeswahlleiter.de</a>.<br>Das
+    findet Ihr unter <a href="https://www.bundeswahlleiterin.de" title="">www.bundeswahlleiterin.de</a>.<br>Das
     Angebot ist überparteilich und wir freuen uns über jede Stimme für eine demokratische
     Partei.
 - template: 4-column-footer

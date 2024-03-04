@@ -22,8 +22,8 @@ page_sections:
   media:
     image: "/uploads/2021/01/25/undraw_voting_nvu7-1.svg"
     alt_text: uBuild Blocks Mock-Up
-- template: text-1
-  block: text-1
+- template: one-column-1
+  block: one-column-1
   headline: "- Neu: Ihr dürft schon ab 16 Jahren wählen -"
   slug: new
   content: ""

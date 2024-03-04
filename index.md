@@ -22,6 +22,11 @@ page_sections:
   media:
     image: "/uploads/2021/01/25/undraw_voting_nvu7-1.svg"
     alt_text: uBuild Blocks Mock-Up
+- template: text-1
+  block: text-1
+  headline: "- Neu: Ihr dürft schon ab 16 Jahren wählen -"
+  slug: new
+  content: ""
 - template: selector
   block: selector
   headline: 'Bitte wählt Eure Situation aus:'
@@ -39,7 +44,7 @@ page_sections:
     Städte und Gemeinden ermöglichen den Briefwahlantrag auch online.</strong></p><ol><li><p>Beantragt
     die Briefwahl.</p></li><li><p>Frühestens 6 Wochen vor der Wahl werden Euch die
     Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten Wahlschein
-    rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist. Bitte ausreichend
+    rechtzeitig ab, sodass er zum Wahltag am 9. Juni angekommen sein wird. Bitte ausreichend
     frankieren!</p></li></ol>"
   slug: noch-gemeldet
 - template: detail-content
@@ -53,12 +58,12 @@ page_sections:
     online möglich. Ihr müsst für jede Wahl <strong>rechtzeitig</strong><em> </em>das
     Antragsformular zur Eintragung in das Wählerverzeichnis an die dortige Verwaltung
     schicken (z.B. «Rathaus, Stadt Pulheim» oder «Wahlamt, Stadt Stuttgart»):</p><ol><li><p>Ladet
-    das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
-    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
-    das ausgefüllte Formular spätestens Ende August an Euren letzten Wohnort in Deutschland.
+    das <a href="https://www.bundeswahlleiterin.de/dam/jcr/56e4a94b-def6-4953-b97a-a9eec316e2b7/euwo_anlage-2_ausfuellbar.pdf"
+    title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
+    das ausgefüllte Formular spätestens Anfang Mai an Euren letzten Wohnort in Deutschland.
     <strong>Am besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl
     werden Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
-    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist.
+    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 9. Juni angekommen sein wird.
     Bitte ausreichend frankieren!</p></li></ol><p><br></p>
   slug: weniger-25-jahre
 - template: detail-content
@@ -71,14 +76,14 @@ page_sections:
     mit Belegen) begründet, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar
     (aus eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der
     Bundesrepublik Deutschland erworben [habt] und gegenwärtig davon betroffen [seid]»
-    <br></em>(Merkblatt<em> </em>des Bundeswahlleiters)</p></blockquote><ol><li><p>Ladet
-    das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
-    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
+    <br></em>(Merkblatt<em> </em>der Bundeswahlleiterin)</p></blockquote><ol><li><p>Ladet
+    das <a href="https://www.bundeswahlleiterin.de/dam/jcr/56e4a94b-def6-4953-b97a-a9eec316e2b7/euwo_anlage-2_ausfuellbar.pdf"
+    title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
     das ausgefüllte Formular zusammen mit der Begründung auf dem Beiblatt und allen
     Belegen bis spätestens Ende August an Euren letzten Wohnort in Deutschland. <strong>Am
     besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl werden
     Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
-    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist.
+    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 9. Juni angekommen sein wird.
     Bitte ausreichend frankieren!</p></li></ol><p>Beispiele für Gründe zur Wahlteilnahme:</p><ul><li><p>Ortskräfte
     an deutschen Auslandsvertretungen oder Goethe-Instituten</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
@@ -93,9 +98,9 @@ page_sections:
     September:</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
     der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>26. September:</strong>
     Bundestagswahl. Die Briefwahlunterlagen müssen bei der Stadt oder Gemeinde angekommen
-    sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiter.de"
-    title="">Die Seite des Bundeswahlleiters</a></p></li><li><p><a href="https://bundeswahlleiter.de/bundestagswahlen/2021/informationen-waehler/deutsche-im-ausland.html"
-    title="">Information des Bundeswahlleiters für Deutsche im Ausland</a></p></li></ul>
+    sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiterin.de/"
+    title="">Die Seite der Bundeswahlleiterin</a></p></li><li><p><a href="https://www.bundeswahlleiterin.de/europawahlen/2024/informationen-waehler/deutsche-im-ausland.html"
+    title="">Information der Bundeswahlleiterin für Deutsche im Ausland</a></p></li></ul>
   slug: fristen
   image: "/uploads/2021/01/25/undraw_mailbox_re_dvds-1.svg"
 - template: 1-column-text

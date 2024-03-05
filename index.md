@@ -80,7 +80,7 @@ page_sections:
     das <a href="https://www.bundeswahlleiterin.de/dam/jcr/56e4a94b-def6-4953-b97a-a9eec316e2b7/euwo_anlage-2_ausfuellbar.pdf"
     title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
     das ausgefüllte Formular zusammen mit der Begründung auf dem Beiblatt und allen
-    Belegen bis spätestens Ende August an Euren letzten Wohnort in Deutschland. <strong>Am
+    Belegen bis spätestens Anfang Mai an Euren letzten Wohnort in Deutschland. <strong>Am
     besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl werden
     Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
     Wahlschein rechtzeitig ab, sodass er zum Wahltag am 9. Juni angekommen sein wird.

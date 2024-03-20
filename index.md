@@ -96,7 +96,7 @@ page_sections:
   content: <p><strong>Spätestens bis Anfang Mai</strong> verschickt Ihr den Antrag
     zur Eintragung ins Wählerverzeichnis. Das könnt Ihr aber auch jetzt schon machen!</p><p><strong>19. Mai:</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
     der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>9. Juni:</strong>
-    Bundestagswahl. Die Briefwahlunterlagen müssen bei der Stadt oder Gemeinde angekommen
+    Europawahl. Die Briefwahlunterlagen müssen bei der Stadt oder Gemeinde angekommen
     sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiterin.de/"
     title="">Die Seite der Bundeswahlleiterin</a></p></li><li><p><a href="https://www.bundeswahlleiterin.de/europawahlen/2024/informationen-waehler/deutsche-im-ausland.html"
     title="">Information der Bundeswahlleiterin für Deutsche im Ausland</a></p></li></ul>

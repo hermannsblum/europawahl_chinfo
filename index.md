@@ -26,7 +26,7 @@ page_sections:
   block: one-column-1
   headline: "- Neu: Ihr dürft schon ab 16 Jahren wählen -"
   slug: new
-  content: ""
+  content: "<strong>unbedingt bis 16. Mai alle Dokumente einreichen</strong>"
 - template: selector
   block: selector
   headline: 'Bitte wählt Eure Situation aus:'
@@ -109,7 +109,7 @@ page_sections:
   content: Diese Seite ist ein Angebot des SPD Freundeskreis Zürich. Alle Informationen
     wurden von Freiwilligen zusammengestellt und wir übernehmen keine Gewähr für Korrektheit
     oder Vollständigkeit. Diese Seite ist als Hilfestellung gedacht, um die Teilnahme
-    an der Bundestagswahl möglichst einfach zu machen. Verbindliche und präzise Informationen
+    an der Europawahl möglichst einfach zu machen. Verbindliche und präzise Informationen
     findet Ihr unter <a href="https://www.bundeswahlleiterin.de" title="">www.bundeswahlleiterin.de</a>.<br>Das
     Angebot ist überparteilich und wir freuen uns über jede Stimme für eine demokratische
     Partei.

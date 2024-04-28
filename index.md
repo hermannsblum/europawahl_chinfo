@@ -36,6 +36,9 @@ page_sections:
   link1: "#noch-gemeldet"
   link2: "#weniger-25-jahre"
   link3: "#mehr-25-jahre"
+- template: one-column-1
+  block: one-column-1
+  content: Keine Deutsche Staatsangehörigkeit? Für die Wahlverfahren anderer Europäischer Staaten gibt es [hier](https://www.sp-ps.ch/kampagne/eu-wahlen-24/) eine Aufstellung der SP Schweiz.
 - template: detail-content
   block: text-1
   headline: 'Option 1: Ich bin noch in Deutschland gemeldet.'
